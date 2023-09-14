@@ -12,15 +12,21 @@ function App() {
   const [readingTime,setReadingTime] = useState(0);
 
 
-  const handleReadingTime = (data) =>{
+  const handleReadingTime = (data,id) =>{
     
    
     const newRead = readingTime+ data;
-    setReadingTime(newRead)
+    setReadingTime(newRead);
+
+    const removeBook = bookmarks.filter(book => book.id !== id);
+    setBookmarks(removeBook);
+
+    
     
   }
 
   const handleBookmark = (data)=>{
+    
     const newBookmarks = [...bookmarks,data];
     setBookmarks(newBookmarks);
   }
