@@ -1,0 +1,57 @@
+[
+  {
+    "id": 101,
+    "name": "The Enigmatic Odyssey",
+    "cover_img": "https://i.ibb.co/DGsbFFs/4.jpg",
+    "title": "Secrets of the Lost Kingdom",
+    "author": "Emily Stone",
+    "author_img": "https://i.ibb.co/99LmQQ9/boy1.png",
+    "published_time": "2023-03-15",
+    "reading_time": 4,
+    "hashtags": ["#Adventure", "#Mystery", "#Fantasy"]
+  },
+  {
+    "id": 102,
+    "name": "Chronicles of the Cosmic Realm",
+    "cover_img": "https://i.ibb.co/wJ1CP5L/1.jpg",
+    "title": "The Astral Guardians",
+    "author": "Benjamin Wells",
+    "author_img": "https://i.ibb.co/7kBLd3j/boy2.jpg",
+    "published_time": "2023-05-20",
+    "reading_time": 5.5,
+    "hashtags": ["#SciFi", "#SpaceOpera", "#Epic"]
+  },
+  {
+    "id": 103,
+    "name": "Whispers in the Shadows",
+    "cover_img": "https://i.ibb.co/Mh15mcq/2.png",
+    "title": "The Haunting of Ravenswood Manor",
+    "author": "Victoria Blackwood",
+    "author_img": "https://i.ibb.co/b34DNhK/girl1.jpg",
+    "published_time": "2023-02-10",
+    "reading_time": 3.5,
+    "hashtags": ["#Horror", "#Gothic", "#Mystery"]
+  },
+  {
+    "id": 104,
+    "name": "City of Dreams",
+    "cover_img": "https://i.ibb.co/5hLwsDM/3.png",
+    "title": "The Neon Chronicles",
+    "author": "Michael Carter",
+    "author_img": "https://i.ibb.co/99GFnH2/girl2.jpg",
+    "published_time": "2023-04-08",
+    "reading_time": 4,
+    "hashtags": ["#UrbanFantasy", "#Cyberpunk", "#Dystopia"]
+  },
+  {
+    "id": 105,
+    "name": "Legends of the Elemental Kingdom",
+    "cover_img": "https://i.ibb.co/DGsbFFs/4.jpg",
+    "title": "The Fireborn Prophecy",
+    "author": "Sarah Anderson",
+    "author_img": "https://i.ibb.co/99LmQQ9/boy1.png",
+    "published_time": "2023-06-30",
+    "reading_time": 6,
+    "hashtags": ["#Fantasy", "#Magic", "#Adventure"]
+  }
+]
